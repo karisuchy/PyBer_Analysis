@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-For this project, I created several types of visualizations for the ride-sharing app Pyber so they can improve access to ride-sharing services and determine affordability for underserved communities. 
+For this project, I created several types of visualizations for the ride-sharing app Pyber.  The charts and graphs show the differences in ride-sharing amount different city types: Urban, Suburban and Rural. This information will be used by Pyber to improve access to ride-sharing services and determine affordability for underserved communities. 
 
 ## Resources
 Jupyter
@@ -13,7 +13,8 @@ ride_data,csv
 
 ## Results
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types. 
+The differences in ride-sharing for the three different city types, Urban, Suburban, and Rural, is quite drastic as demonstrated by all of the graphics below. 
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the:
 - total rides, 
 - total drivers, 
@@ -68,13 +69,9 @@ Average number of drivers in rural cities is nine times less than those in urban
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+As demonstrated above, the number of drivers, the amount of fares, and the number of rides are all significantly higher in Urban Cities and sifnificantly lower in Rural Communities.  
+1) Recurit additional drivers in a few rural cities to improve availability. Use the results to determine if increasing the availability of drivers leads to increase ride-sharing. 
+2) need another
+3) and another
 
-
-As demonstrated above, the overall impact of eliminating Thomas High School's ninth grade scores was negligible. A few areas where changes can be seen are: 
-- Thomas High School is no longer alone in the second place spot of high performing schools. 
-- Math and Reading scores by grade.
-- The scores for the $630 - $644 spending bin. 
-- The reading and overall percentages for medium size schools
-
-All information is available the shared development environment and is available on Git Hub.
+All information is available for reivew on Git Hub.
