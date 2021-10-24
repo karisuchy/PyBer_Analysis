@@ -27,6 +27,8 @@ There is a description of the differences in ride-sharing data among the differe
 
 ### Rides
 
+Counts: urban - 66, suburban - 36,  rural - 18
+
 Statiscal analysis 
 
 
@@ -37,7 +39,9 @@ Statiscal analysis
 
 ### Fares
 
-
+Urban: mean is $24.53, median is $24.64, mode is $22.86 
+Suburban: mean is $
+Rural: mean is $
 
 ![FareVisualizations](https://user-images.githubusercontent.com/90162669/138601013-23247421-6d8e-4d5a-8791-7bdc00075236.png)
 
@@ -45,7 +49,8 @@ Statiscal analysis
 
 #### Drivers
 
-
+Average driver count in urban cities is 37, suburban is 14, and rural is 4.  
+Average number of drivers in rural cities is nine times less than those in urban cities and four times less than those in suburban cities. 
 
 ![DriverVisualizations](https://user-images.githubusercontent.com/90162669/138601027-4c737647-4adc-4278-9463-daeaf75e76d8.png)
 
